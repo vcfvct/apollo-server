@@ -41,7 +41,7 @@
     "@types/node": "8.9.4",
     "@types/sinon": "4.1.4",
     "chai": "4.1.2",
-    "graphql": "0.11.7",
+    "graphql": "0.13.1",
     "husky": "0.14.3",
     "istanbul": "1.1.0-alpha.1",
     "lerna": "2.9.0",
